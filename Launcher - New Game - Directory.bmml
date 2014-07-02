@@ -1,0 +1,113 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="907" measuredH="593" mockupW="641" mockupH="549">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="266" y="44" w="641" h="549" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="__group__" x="309" y="101" w="567" h="400" measuredW="567" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Open%20Dialog%20Mac%20OS%20X</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="0" y="0" w="567" h="400" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="1">
+          <controlProperties>
+            <bottomheight>52</bottomheight>
+            <close>true</close>
+            <dragger>true</dragger>
+            <maximizeRestore>true</maximizeRestore>
+            <minimize>true</minimize>
+            <text>Open</text>
+            <topheight>70</topheight>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="103" y="30" w="-1" h="-1" measuredW="88" measuredH="27" zOrder="1" locked="false" isInGroup="1">
+          <controlProperties>
+            <selectedIndex>1</selectedIndex>
+            <text>%20%20%2C%20%20%2C%20%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::ButtonBar" x="15" y="30" w="-1" h="-1" measuredW="60" measuredH="27" zOrder="2" locked="false" isInGroup="1">
+          <controlProperties>
+            <selectedIndex>-1</selectedIndex>
+            <text>%20%20%2C%20%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::ComboBox" x="237" y="30" w="179" h="-1" measuredW="80" measuredH="24" zOrder="3" locked="false" isInGroup="1">
+          <controlProperties>
+            <text>Desktop</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::SearchBox" x="431" y="30" w="121" h="-1" measuredW="120" measuredH="25" zOrder="4" locked="false" isInGroup="1"/>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::DataGrid" x="137" y="66" w="430" h="286" measuredW="305" measuredH="111" zOrder="5" locked="false" isInGroup="1">
+          <controlProperties>
+            <text>Name%2C%20Date%20Modified%0Aa%20nice%20little%20file%2C%20Yesterday%5C%2C%203%3A19%20PM%0Adocument.pdf%2C%20Yesterday%5C%2C%207%3A55%20AM%0Aslideshow.ppt%2C%20Friday%5C%2C%20January%202%5C%2C%202009%208%3A24%20AM</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="389" y="360" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="6" locked="false" isInGroup="1">
+          <controlProperties>
+            <text>Cancel</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="469" y="360" w="-1" h="-1" measuredW="61" measuredH="27" zOrder="7" locked="false" isInGroup="1">
+          <controlProperties>
+            <state>disabled</state>
+            <text>Select</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Icon" x="31" y="35" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="8" locked="false" isInGroup="1">
+          <controlProperties>
+            <icon>LeftTriangleIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="70" y="35" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="9" locked="false" isInGroup="1">
+          <controlProperties>
+            <icon>RightTriangleIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Icon" x="161" y="34" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="10" locked="false" isInGroup="1">
+          <controlProperties>
+            <icon>TextAlignLeftIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Icon" x="197" y="34" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="11" locked="false" isInGroup="1">
+          <controlProperties>
+            <icon>TableIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Icon" x="119" y="34" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="12" locked="false" isInGroup="1">
+          <controlProperties>
+            <icon>StopIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Tree" x="0" y="66" w="137" h="286" measuredW="300" measuredH="225" zOrder="13" locked="false" isInGroup="1">
+          <controlProperties>
+            <selectedIndex>6</selectedIndex>
+            <text>F%20Devices%0A%20-%20My%20Macbook%0A%20-%20Macintosh%20HD%0AF%20Shared%0A%20-%20Time%20Capsule%0AF%20Places%0A%20-%20Desktop%0A%20-%20Home</text>
+            <verticalScrollbar>true</verticalScrollbar>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="836" y="558" w="-1" h="-1" measuredW="63" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Create</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="772" y="558" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::SubTitle" x="455" y="68" w="-1" h="-1" measuredW="275" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Select%20Destination%20Folder</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::CheckBox" x="309" y="516" w="-1" h="-1" measuredW="176" measuredH="22" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Create%20local%20Git%20repository</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
