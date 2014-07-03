@@ -3,7 +3,7 @@ v0.2
 
 ## Revisions
 
-v0.2 - 2014-07-02: Changes in Name, Link to Launcher PRD, Redefined "Well integrated"
+v0.2 - 2014-07-02: Product is called _Cocos Studio_ instead of _Cocos_, Link to Launcher PRD, Redefined "Well integrated"
 v0.1 - 2014-06-26: Initial version
 
 # INTRODUCTION
@@ -264,11 +264,42 @@ The Cocos logo __must__ have be related somehow to the Cocos2d-X logo, but it __
 __TBD__: What about using the Cocos Studio logo ?
 
 ___Name___:
-The name of the product is __Cocos__, with Capital C. The name is __NOT__ Cocos Engine, or Cocos Game Engine. The name of the product is just Cocos.
 
-The problem with the name Cocos Engine is that it implies that Cocos is just a game engine. Cocos2d-X is a game engine. But Cocos is much more than that. Cocos uses a game engine (Cocos2d-x), but also uses Cocos Studio, Cocos Services, Asset Store, etc.
+In PRD v0.1, the proposed named was _Cocos_, because it was better than _Cocos Engine_. Other proposed names were: _Cocos Platform_, _Cocos Suite_, _Cocos SDK_.
 
-One counter example is Unreal Engine (AKA Unreal). Unreal is much more than a game engine. But Unreal doesn't have the problem that we have: Cocos2d-X is the game engine, and Cocos uses Cocos2d-X as one of its components. In Unreal, there is not such thing as Unreal3d-X.
+But what if the product is called _Cocos Studio_ ? In fact, it will be Cocos Studio v2.0.
+
+Why:
+
+- Becuase _Cocos Studio_ already means that. That is the "Studio" for Cocos.
+- Because users already know it. No need to re-educate our users. _Cocos Studio v2.0_ is like v1.0 plus a lot of new features
+- Because it is a very good name
+- Because it is much better than simply Cocos
+
+And _Cocos Studio v2.0_ will have:
+
+- Support for Mac!!
+- Integration with Services!!
+- An IDE editor!!
+- An Installer!!
+
+And future versions will have Auto Update, Asset Store, and more.
+
+Like _Visual Studio_, _Cocos Studio_, is our integrated solution to develop Cocos games.
+
+__Q__: If the whole product is called Cocos Studio, what are going to be the names of the different components ?
+__A__: These are the names:
+
+- Cocos Code IDE: We can still call it Cocos Code IDE
+- Cocos Studio: We can still call it Cocos Studio
+
+In a similar way, Xcode is the name of huge product that has:
+
+- Xcode
+- Instruments
+- Simulator
+
+This document still uses the name _Cocos_ to refer to the whole product, but future version will have it updated.
 
 ___White Papers___:
 Since Cocos uses Cocos2d-X as its game engine, and Cocos2d-X is very fast, much faster than Unity and SpriteKit, we need to publish that information on the in the site.
@@ -437,7 +468,8 @@ Uses from different countries:
 
 # SPECIFIC REQUIREMENTS
 ## Functional Requirements
-TODO
+
+For Launcher requirements, please see the Launcher PRD document.
 
 ## Usability Requirements
 TODO
