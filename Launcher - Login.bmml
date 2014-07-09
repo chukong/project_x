@@ -5,9 +5,9 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="510" y="162" w="-1" h="-1" measuredW="116" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="510" y="162" w="-1" h="-1" measuredW="169" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Cocos</text>
+        <text>Project%20X</text>
       </controlProperties>
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="464" y="261" w="224" h="-1" measuredW="113" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
