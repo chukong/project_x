@@ -2,7 +2,8 @@
 
 ## Revisions
 
-v0.1 2014-07-10: Initial version
+* v0.1 2014-07-11: Added more info about DMG
+* v0.1 2014-07-10: Initial version
 
 # INTRODUCTION
 
@@ -119,4 +120,6 @@ We have 2 requirements:
 
 It is impossible to fulfill both requirements at the same time, but we can do something similar to Xcode.
 Xcode is on the Apple Store, but it also needs to extra steps to work correctly, like downloading extra Simulators, or the documentation. Xcode does the extra steps the very first time that Xcode is executed. And we could do something like that for Project X.
+
+![]()
 
