@@ -2,7 +2,7 @@
 
 ## Revisions
 
-* v0.1 2014-07-11: Added more info about DMG
+* v0.2 2014-07-11: Added more info about DMG
 * v0.1 2014-07-10: Initial version
 
 # INTRODUCTION
