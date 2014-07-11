@@ -19,7 +19,7 @@ In order to use _Project X_, the User needs to register a developer account.
 
 The user will launch Project X, and the Login dialog will appear.
 
-![Launcher Login Dialog](./Launcher%20-%20Login.png)
+![Launcher Login Dialog](https://raw.githubusercontent.com/chukong/project_x/master/images/Launcher%20-%20Login.png?token=232330__eyJzY29wZSI6IlJhd0Jsb2I6Y2h1a29uZy9wcm9qZWN0X3gvbWFzdGVyL2ltYWdlcy9MYXVuY2hlciAtIExvZ2luLnBuZyIsImV4cGlyZXMiOjE0MDU3MTExMDJ9--30fc2d19fe07b2482ec5b56ac31b524175868d0c)
 
 If the User has an account:
 - The User must enter its user name and password.
@@ -31,7 +31,7 @@ If the User doesn't remember its username and/or password, then there must be a 
 
 If the User doesn't have a developer account , the User will click on Create Account and the 'Create Account' dialog will appear:
 
-![Launcher Registration Dialog](./Launcher%20-%20Registration.png)
+![Launcher Registration Dialog](https://raw.githubusercontent.com/chukong/project_x/master/images/Launcher%20-%20Registration.png?token=232330__eyJzY29wZSI6IlJhd0Jsb2I6Y2h1a29uZy9wcm9qZWN0X3gvbWFzdGVyL2ltYWdlcy9MYXVuY2hlciAtIFJlZ2lzdHJhdGlvbi5wbmciLCJleHBpcmVzIjoxNDA1NzExMTE3fQ%3D%3D--09be82a9dda8788dee28762ba7061f6264efb230)
 
 The User must provide:
 
@@ -47,7 +47,7 @@ In order to create a New Game, the User needs to launch _Project X_.
 If the User is not logged in, the Login dialog will appear. See Use Case #1.
 If the User is already logged in, the _Launcher Main Dialog_ will appear.
 
-![Launcher Main Dialog](./Launcher%20-%20Main%20Window.png)
+![Launcher Main Dialog](https://raw.githubusercontent.com/chukong/project_x/master/images/Launcher%20-%20Main%20Window.png?token=232330__eyJzY29wZSI6IlJhd0Jsb2I6Y2h1a29uZy9wcm9qZWN0X3gvbWFzdGVyL2ltYWdlcy9MYXVuY2hlciAtIE1haW4gV2luZG93LnBuZyIsImV4cGlyZXMiOjE0MDU3MTExODB9--c2518f77fec2005f2603463fa6ba5f879b5d60d0)
 
 Then the User must click on _New Game_ and the Launcher New Game Dialog must appear. The User must provide:
 
@@ -66,8 +66,8 @@ Then the User must click on _New Game_ and the Launcher New Game Dialog must app
 - Directory where the project is going to be created
     - Possibility to create Git repository
 
-![Launcher Registration Dialog](./Launcher%20-%20New%20Game.png)
-![Launcher Registration Dialog](./Launcher%20-%20New%20Game%20-%20Directory.png)
+![Launcher Registration Dialog](https://raw.githubusercontent.com/chukong/project_x/master/images/Launcher%20-%20New%20Game.png?token=232330__eyJzY29wZSI6IlJhd0Jsb2I6Y2h1a29uZy9wcm9qZWN0X3gvbWFzdGVyL2ltYWdlcy9MYXVuY2hlciAtIE5ldyBHYW1lLnBuZyIsImV4cGlyZXMiOjE0MDU3MTExNjB9--fdb25bcd58a984f362ea12641b89dbe21b3aed5d)
+![Launcher Registration Dialog](https://raw.githubusercontent.com/chukong/project_x/master/images/Launcher%20-%20New%20Game%20-%20Directory.png?token=232330__eyJzY29wZSI6IlJhd0Jsb2I6Y2h1a29uZy9wcm9qZWN0X3gvbWFzdGVyL2ltYWdlcy9MYXVuY2hlciAtIE5ldyBHYW1lIC0gRGlyZWN0b3J5LnBuZyIsImV4cGlyZXMiOjE0MDU3MTExNDF9--02f809ee3c06c290e8c16f048a4f12e1ce861728)
 
 
 ### 3. Open an existing game
