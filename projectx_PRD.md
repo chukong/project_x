@@ -75,7 +75,7 @@ By no means, the described features are exclusive. The above mentioned features 
 
 To describe Project X using different words, Project X is everything that is between the "I have this idea for a new game" and the published game in different Stores.
 
-![](./graphic.png)
+![](https://raw.githubusercontent.com/chukong/project_x/master/images/graphic.png?token=232330__eyJzY29wZSI6IlJhd0Jsb2I6Y2h1a29uZy9wcm9qZWN0X3gvbWFzdGVyL2ltYWdlcy9ncmFwaGljLnBuZyIsImV4cGlyZXMiOjE0MDU3MTA4NzR9--b4422ca6d24bf3e08bcc8958c927828b2768286a)
 
 But Project X is NOT just a collection of editors and services. Project X might include different editors and services, but it is __key__ that these editors and services are __well integrated__: smooth workflow; and familiar, easy-to-use User Experience.
 
@@ -119,7 +119,7 @@ Additionally, the Project X product also needs __marketing material__, like logo
 
 ### Components in Detail
 
-![](./ProjectX-description.png)
+![](https://raw.githubusercontent.com/chukong/project_x/master/images/ProjectX-description.png?token=232330__eyJzY29wZSI6IlJhd0Jsb2I6Y2h1a29uZy9wcm9qZWN0X3gvbWFzdGVyL2ltYWdlcy9Qcm9qZWN0WC1kZXNjcmlwdGlvbi5wbmciLCJleHBpcmVzIjoxNDA1NzEwODk5fQ%3D%3D--2ee23cd85758c931213bdf69b861f383d44dbbe9)
 
 #### Game Editor
 
@@ -206,8 +206,8 @@ The Launcher could be part of Cocos Studio or not. In this document Cocos Studio
 
 As an example, and only for the purpose of clarification, the Launcher could look like the following:
 
-![](./Launcher%20-%20Login.png)
-![](./Launcher2.png)
+![](https://raw.githubusercontent.com/chukong/project_x/master/images/Launcher%20-%20Login.png?token=232330__eyJzY29wZSI6IlJhd0Jsb2I6Y2h1a29uZy9wcm9qZWN0X3gvbWFzdGVyL2ltYWdlcy9MYXVuY2hlciAtIExvZ2luLnBuZyIsImV4cGlyZXMiOjE0MDU3MTA5MTh9--77afa561879820236508cccf285b8771cc6cb747)
+![](https://raw.githubusercontent.com/chukong/project_x/master/images/Launcher2.png?token=232330__eyJzY29wZSI6IlJhd0Jsb2I6Y2h1a29uZy9wcm9qZWN0X3gvbWFzdGVyL2ltYWdlcy9MYXVuY2hlcjIucG5nIiwiZXhwaXJlcyI6MTQwNTcxMDkzNX0%3D--bf5dbcd52a541296f8301629d8cc975e52ae428f)
 
 #### Game Engine
 
