@@ -1,4 +1,4 @@
-project_x
+Project X
 =========
 
-Requirements for Project X
+Vision, Requirements, Use Cases and Worflow for Project X
