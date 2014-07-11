@@ -4,7 +4,9 @@ v0.3
 ## Revisions
 
 v0.3 - 2014-07-08: Product is called _Project X_ until we find a better name. Added new graphics
+
 v0.2 - 2014-07-02: Product is called _Cocos Studio_ instead of _Cocos_, Link to Launcher PRD, Redefined "Well integrated"
+
 v0.1 - 2014-06-26: Initial version
 
 # INTRODUCTION
