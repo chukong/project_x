@@ -118,8 +118,18 @@ We have 2 requirements:
 * Setup Project X during the installation
 * Compatible with Apple Store
 
-It is impossible to fulfill both requirements at the same time, but we can do something similar to Xcode.
-Xcode is on the Apple Store, but it also needs to extra steps to work correctly, like downloading extra Simulators, or the documentation. Xcode does the extra steps the very first time that Xcode is executed. And we could do something like that for Project X.
+It is not possible to fulfill both requirements at the same time, but we can do something similar to Xcode.
+Xcode is on the Apple Store, but it also needs extra steps to work correctly, like setting up their command line tools, or like downloading extra Simulators.
 
-![]()
+We can setup Project X the very first time that it is executed.
+
+
+### Example of a good .dmg
+
+A DMG should look like this:
+
+* Name of the application (replace Firefox with Project X)
+* Information regarding how to install it. Just drag & drop the Icon into the Applications folder
+
+![](https://raw.githubusercontent.com/chukong/project_x/master/images/installer-dmg.png?token=232330__eyJzY29wZSI6IlJhd0Jsb2I6Y2h1a29uZy9wcm9qZWN0X3gvbWFzdGVyL2ltYWdlcy9pbnN0YWxsZXItZG1nLnBuZyIsImV4cGlyZXMiOjE0MDU3MTkyOTl9--b1a41ae3e257d7f3b927e066c081cd45cc1995bb)
 
