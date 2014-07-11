@@ -37,7 +37,7 @@ Users should be able to download the Windows or Mac version regardless of the Br
 
 The installer must be signed (verified) in order to prevent the following dialog:
 
-![](./installer-verified.png)
+![](https://raw.githubusercontent.com/chukong/project_x/master/images/installer-verified.png?token=232330__eyJzY29wZSI6IlJhd0Jsb2I6Y2h1a29uZy9wcm9qZWN0X3gvbWFzdGVyL2ltYWdlcy9pbnN0YWxsZXItdmVyaWZpZWQucG5nIiwiZXhwaXJlcyI6MTQwNTcxMTA2NH0%3D--cf1d12a34673f811454132c259566691a626cb64)
 
 
 ### IN-0005: Placing the files Application
